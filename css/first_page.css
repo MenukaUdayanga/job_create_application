@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #4e5354;
+}
+.btn{
+
+    background-color:#13c0f0 ;
+    border-radius: 15px;
+    padding: 11px;
+    border: 0;
+    position: relative;
+    top: 260px;
+    left: 600px;
+    color: white;
+    text-decoration: none;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: #05b3e8;
+    text-decoration: none;
+}
